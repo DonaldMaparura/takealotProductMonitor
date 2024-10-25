@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: takealotProductMonitor
+  profiles:
+    active: local
+
+server:
+  port: 8081
