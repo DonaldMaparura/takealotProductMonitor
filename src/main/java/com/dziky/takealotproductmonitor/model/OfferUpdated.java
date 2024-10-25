@@ -1,4 +1,4 @@
-package model;
+package com.dziky.takealotproductmonitor.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
